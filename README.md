@@ -29,7 +29,6 @@
 - [Zod](https://zod.dev/)
 - [Framer Motion](https://www.framer.com/motion/)
 - [React Router](https://reactrouter.com/)
-- [Vercel](https://vercel.com/) (Deploy)
 
 ---
 
