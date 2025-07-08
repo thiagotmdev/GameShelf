@@ -15,6 +15,7 @@
 - 🌗 Dark Mode com toggle
 - 💾 Exportar/importar coleção `.json`
 - 🎞️ Animações com Framer Motion
+- 🚀 Deploy com Vercel
 - ⚡️ Performance com Vite
 
 ---
@@ -29,6 +30,7 @@
 - [Zod](https://zod.dev/)
 - [Framer Motion](https://www.framer.com/motion/)
 - [React Router](https://reactrouter.com/)
+- [Vercel](https://vercel.com/) (Deploy)
 
 ---
 
