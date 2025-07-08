@@ -15,7 +15,6 @@
 - 🌗 Dark Mode com toggle
 - 💾 Exportar/importar coleção `.json`
 - 🎞️ Animações com Framer Motion
-- 🚀 Deploy com Vercel
 - ⚡️ Performance com Vite
 
 ---
